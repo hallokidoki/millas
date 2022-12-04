@@ -1,0 +1,106 @@
+body{
+        background-image: url(../img/fondoindex.jfif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        
+        
+    }
+    
+    head{
+        background-color: aqua;
+    }
+
+    .Copyright{
+        text-align: center;
+        margin-top: 70%;
+        color:rgb(0, 0, 0);
+        font-size: 120%;
+    }
+    .card-millas{
+        position: absolute;
+        top: 15%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        width: 500px;
+        padding: 40px;
+        background: rgba(0,0,0, .8);
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+        border-radius: 10px;
+      
+        
+    }
+    .card-millas h1{
+        color: rgb(255, 255, 255);
+        text-align: center;
+        margin: 0 0 30px;
+        padding: 0;
+     }
+     .card-millas input{
+        background: transparent;
+        color: rgb(167, 165, 165);
+        
+        
+     }
+     .card-millas .custom-select{
+        background: transparent;
+        color: rgb(167, 165, 165);
+         
+     }
+    
+    .card-login{
+        position:absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -10%);
+        width: 500px;
+        padding: 40px;
+        background: rgba(0,0,0, .8);
+        box-sizing: border-box;
+        box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+        border-radius: 10px;
+    }
+    .card-login input{
+        background: transparent;
+        color: rgb(167, 165, 165);
+    }
+
+    .Registrateaqui{
+        text-align: center;
+        color:rgb(0, 0, 0);
+        font-size: 150%;
+        margin-top: 150%;
+       
+    }
+    
+    .login h2{
+        color: rgb(255, 255, 255);
+        text-align: center;
+        margin: 0 0 30px;
+        padding: 0;
+
+    }
+    .Registrateaqui a{
+        text-align: center;
+        color:rgb(0, 0, 0);
+        font-size: 90%;
+        
+    }
+    .Registrateaqui p{
+        text-align: center;
+        color:rgb(0, 0, 0);
+        font-size: 90%;
+    }
+    
+    .content-wrapper {
+        background-image: url(../img/container.jfif);
+        background-position:initial;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+   
